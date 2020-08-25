@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/about-texas/static/css/main.dfb1218f.chunk.css",
+    "main.js": "/about-texas/static/js/main.fe1d0412.chunk.js",
+    "main.js.map": "/about-texas/static/js/main.fe1d0412.chunk.js.map",
+    "runtime-main.js": "/about-texas/static/js/runtime-main.c7b13496.js",
+    "runtime-main.js.map": "/about-texas/static/js/runtime-main.c7b13496.js.map",
+    "static/js/2.d3a71e5c.chunk.js": "/about-texas/static/js/2.d3a71e5c.chunk.js",
+    "static/js/2.d3a71e5c.chunk.js.map": "/about-texas/static/js/2.d3a71e5c.chunk.js.map",
+    "index.html": "/about-texas/index.html",
+    "precache-manifest.cb03e6c33c9dbdfa0c0fdbe29918e1c7.js": "/about-texas/precache-manifest.cb03e6c33c9dbdfa0c0fdbe29918e1c7.js",
+    "service-worker.js": "/about-texas/service-worker.js",
+    "static/css/main.dfb1218f.chunk.css.map": "/about-texas/static/css/main.dfb1218f.chunk.css.map",
+    "static/js/2.d3a71e5c.chunk.js.LICENSE.txt": "/about-texas/static/js/2.d3a71e5c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/about-texas/static/media/logo.5d5d9eef.svg",
+    "static/media/tx-flag.png": "/about-texas/static/media/tx-flag.de441a04.png",
+    "static/media/tx-map.jpg": "/about-texas/static/media/tx-map.bdfc33e9.jpg",
+    "static/media/tx-seal.png": "/about-texas/static/media/tx-seal.5ff25365.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7b13496.js",
+    "static/js/2.d3a71e5c.chunk.js",
+    "static/css/main.dfb1218f.chunk.css",
+    "static/js/main.fe1d0412.chunk.js"
+  ]
+}
